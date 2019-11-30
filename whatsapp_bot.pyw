@@ -1,5 +1,5 @@
 #! python3
-# webbot.pyw - Checks for command quotes on the whatsapp web html page, then executes a set of instructions based on what the commands are
+# whatsapp_bot.pyw - Checks for command quotes on the whatsapp web html page, then executes a set of instructions based on what the commands are
 
 # Instructions:
 # Run the code, log in into whatsapp web from the browser, and click on the chat you want the script to listen to, then just let it run in the background
