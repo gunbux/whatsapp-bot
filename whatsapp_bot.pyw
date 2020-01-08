@@ -145,7 +145,7 @@ class Link(Command):
         
         Command.__init__(self,command,input)
         self.description = 'Copy and pastes desired link to the whatsapp group'
-        self.output = 'https://www.notion.so/cyun/Dec-19-V1-Chalet-955c0fd2e0d249bd8fd433d12ec8cdcd'
+        self.output = 'https://www.notion.so/cyun/'
         
         
     def run(self):
@@ -199,7 +199,7 @@ class People(Command):
         
         Command.__init__(self,command,input)
         self.description = 'Finds number of people currenly going for chalet, and lists them out'
-        self.output = 'There are currently 9 confirmed people for chalet. Only Josh and Pei Zhen are not staying over. (Jonathan, Joshua, Pei Zhen, Jolie, Hiromi, Yuuka, Kirby, Sheng Cheng, Chun Yu)'
+        self.output = 'There are currently 9 confirmed people for chalet. Only **** and *** are not staying over. '
         
         
     def run(self):
